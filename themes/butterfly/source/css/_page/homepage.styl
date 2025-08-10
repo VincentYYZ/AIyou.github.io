@@ -174,14 +174,14 @@ $indexEnable = hexo-config('cover.index_enable')
         -webkit-line-clamp: 4
         word-break: break-word
 
-// Custom: narrow homepage post item width and center
+// Custom: keep homepage post item within container and centered
 #recent-posts
   .recent-post-item
-    max-width: 120%
-    width: 120%
+    max-width: 100%
+    width: 100%
     margin-left: auto
     margin-right: auto
 
   +maxWidth900()
     .recent-post-item
-      max-width: 120%
+      max-width: 100%

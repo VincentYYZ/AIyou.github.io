@@ -101,7 +101,7 @@ footer_img: false
 # Website Background
 # Can set it to color or image url
 background: 
-
+    /img/you4.jpg
 cover:
   # Disable the cover or not
   index_enable: true
@@ -196,7 +196,7 @@ index_layout: 1
 index_post_content:
   method: 3
   # If you set method to 2 or 3, the length need to config
-  length: 500
+  length: 300
 
 # --------------------------------------
 # Post Settings
