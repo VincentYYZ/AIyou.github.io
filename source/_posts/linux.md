@@ -1,3 +1,11 @@
+---
+title: linux常用命令
+date: 2025-08-06 14:40:48
+cover: /img/img.jpg
+categories:
+  - linux
+
+---
 # Linux 常用命令汇总
 
 本文档总结了一些常用的Linux命令及其用法。
