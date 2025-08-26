@@ -17,3 +17,4 @@ git rm --cached source/_posts/git.md 只删除git中的记录，不删除文件�
 git rm -f source/_posts/git.md 会把我的文件也删除掉
 
 1
+2
