@@ -1064,7 +1064,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    # - <script src="xxxx"></script>
+    - '<div style="text-align: center; padding: 20px; font-size: 14px;"><a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2025139950号-1</a><br>信息产业部备案管理系统：<a href="https://beian.miit.gov.cn/" target="_blank">https://beian.miit.gov.cn</a></div>'
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work

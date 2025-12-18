@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Al鼬
+title: 人工智能分享
 subtitle: ''
 description: ''
 keywords:
@@ -100,11 +100,11 @@ theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: root@106.13.160.85:/var/repo/hexo.git
-  branch: master
 # deploy:
 #   type: git
-#   repo: https://github.com/VincentYYZ/AIyou.github.io.git
+#   repo: root@106.13.160.85:/var/repo/hexo.git
 #   branch: master
+deploy:
+  type: git
+  repo: https://github.com/VincentYYZ/AIyou.github.io.git
+  branch: master
